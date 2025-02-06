@@ -1,0 +1,9 @@
+baseURL = 'https://www.bcmke.org/'
+languageCode = 'en-us'
+title = 'BarCamp Milwaukee'
+copyright = '2025'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/wjh18/hugo-liftoff/v3'
+

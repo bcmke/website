@@ -1,0 +1,18 @@
+favicon = true
+avatar = 'logo.png'
+
+# the theme doesn't support discord and having just github looks funny so
+# disable them for now.
+footer_socials = false
+
+[social.links]
+  github = 'bcmke'
+  discord = 'https://discord.gg/DkxA2gep3t'
+
+[social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  reddit = true
+  email = true
+
