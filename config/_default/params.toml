@@ -5,6 +5,8 @@ avatar = 'logo.png'
 # disable them for now.
 footer_socials = false
 
+custom_css = 'bcmke.css'
+
 [social.links]
   github = 'bcmke'
   discord = 'https://discord.bcmke.org/'
